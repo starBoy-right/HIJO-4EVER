@@ -31,9 +31,9 @@
     <td align="center">
       <img src="./member-images/romi-image.jpeg" alt="Teks Alt Orang 2" width="100%">
       <br>
-      <strong>Nama Anggota 2</strong>
+      <strong>Muhammad Shidqi Hanif Firdaus</strong>
       <br>
-      <em>Jabatan</em>
+      <em>LeadDev</em>
     </td>
   </tr>
 
@@ -42,9 +42,9 @@
     <td align="center">
       <img src="./member-images/romi-image.jpeg" alt="Teks Alt Orang 1" width="100%">
       <br>
-      <strong>Muhammad Shidqi Hanif Firdaus</strong>
+      <strong>Nama dev 1</strong>
       <br>
-      <em>LeadDev</em>
+      <em>Jabatan</em>
     </td>
     <td align="center">
       <img src="./member-images/romi-image.jpeg" alt="Teks Alt Orang 2" width="100%">
