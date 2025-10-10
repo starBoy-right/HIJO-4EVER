@@ -22,7 +22,7 @@
   <!-- tingkatan lead -->
   <tr>
     <td align="center">
-      <img src="../HIJO-4EVER/member-images/romi-image.jpeg" alt="Teks Alt Orang 1" width="100%">
+      <img src="./member-images/romi-image.jpeg" alt="Teks Alt Orang 1" width="100%">
       <br>
       <strong>Romi Wahyudi Hasibuan</strong>
       <br>
