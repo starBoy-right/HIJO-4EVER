@@ -14,7 +14,7 @@
     <td colspan="2" align="center">
       <img src="./member-images/romi-image.jpeg" alt="pm" width="80%">
       <br>
-      <strong>Nama pm</strong>
+      <strong>Nama project-manager</strong>
       <br>
       <em>isi jabatan</em> 
     </td>
@@ -49,7 +49,7 @@
     <td align="center">
       <img src="./member-images/romi-image.jpeg" alt="Teks Alt Orang 2" width="100%">
       <br>
-      <strong>Nama dev 2</strong>
+      <strong>Nama developer 2</strong>
       <br>
       <em>Jabatan</em>
     </td>
