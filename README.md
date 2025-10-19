@@ -29,7 +29,7 @@
       <em>LeadOps</em>
     </td>
     <td align="center">
-      <img src="./member-images/romi-image.jpeg" alt="Teks Alt Orang 2" width="100%">
+      <img src="./member-images/hanif.jpeg" alt="Teks Alt Orang 2" width="100%">
       <br>
       <strong>Muhammad Shidqi Hanif Firdaus</strong>
       <br>
@@ -40,11 +40,11 @@
   <!-- tingkatan dev -->
    <tr>
     <td align="center">
-      <img src="./member-images/romi-image.jpeg" alt="Teks Alt Orang 1" width="100%">
+      <img src="./member-images/Jiro.jpg" alt="Teks Alt Orang 1" width="100%">
       <br>
-      <strong>Nama developer 1</strong>
+      <strong>Harun Yahya</strong>
       <br>
-      <em>Jabatan</em>
+      <em>LeadDev</em>
     </td>
     <td align="center">
       <img src="./member-images/romi-image.jpeg" alt="Teks Alt Orang 2" width="100%">
