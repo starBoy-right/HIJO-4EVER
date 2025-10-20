@@ -44,7 +44,7 @@
       <br>
       <strong>Harun Yahya</strong>
       <br>
-      <em>LeadDev</em>
+      <em>Junior Dev</em>
     </td>
     <td align="center">
       <img src="./member-images/romi-image.jpeg" alt="Teks Alt Orang 2" width="100%">
